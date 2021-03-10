@@ -26,7 +26,7 @@ An Amazon S3 bucket is a cloud storage resource available in Amazon Web Service.
 
    > **Warning**
    >
-   > You can't rename a bucket after it's creation. For more information, please see [Bucket restrictions and limitations](https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html#bucketnamingrules).
+   > You can't rename a bucket after its creation. For more information, please see [Bucket restrictions and limitations](https://docs.aws.amazon.com/AmazonS3/latest/userguide/BucketRestrictions.html#bucketnamingrules).
 
    The Region is the AWS Region where you want your bucket to reside.
 
