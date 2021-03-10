@@ -17,9 +17,10 @@ An Amazon S3 bucket is a cloud storage resource available in Amazon Web Service.
    The bucket name must:
 
    - Have a unique name across all Amazon AWS S3 accounts (not just your own account).
-   - Start with a lowercase alphanumeric letter.
-   - Between 3 and 63 characters long.
+   - Start and end with a lowercase alphanumeric letter.
+   - Be between 3 and 63 characters long.
    - Have no uppercase characters.
+   - Not be formatted as an IP Address (such as 192.168.1.1).
    - Have a name that is DNS-compliant (contains no spaces and uses '-' instead of '.').
    <br />
 
