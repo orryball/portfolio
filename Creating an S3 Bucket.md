@@ -41,7 +41,7 @@ An Amazon S3 bucket is a cloud storage resource available in Amazon Web Service.
    - **Object-level logging** provides audit logging for objects in AWS CloudTrail at an additional cost. (For more information on AWS CloudTrail, please see [What Is AWS CloudTrail?](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html))
    - **Default Encryption** will automatically encrypt all objects stored in your bucket.
 
- For more information on Configuration Options, please see [Viewing the properties for an S3 bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/view-bucket-properties.html).
+   For more information on Configuration Options, please see [Viewing the properties for an S3 bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/view-bucket-properties.html).
 
 6. After Configuration Settings are the **Permission settings** for your bucket. By default your bucket is set to private, these permission settings are where you can provide public access to your bucket. It is recommend that you leave all settings enabled.
 
