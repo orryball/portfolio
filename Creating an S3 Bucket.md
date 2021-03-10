@@ -4,9 +4,9 @@ An Amazon S3 bucket is a cloud storage resource available in Amazon Web Service.
 
 1. Sign into your AWS account, and navigate to the AWS Management Console.
 
- > **Note**
- >
- > An AWS Account is required to creating an Amazon S3 bucket. If you do not have an AWS Account, please create an account at [AWS Free Tier Sign-up](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) and selecting **Create a Free Account**
+   > **Note**
+   >
+   > An AWS Account is required to creating an Amazon S3 bucket. If you do not have an AWS Account, please create an account at [AWS Free Tier Sign-up](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) and selecting **Create a Free Account**
 
 2. Navigate to the [Amazon S3 console](https://console.aws.amazon.com/s3/).
 
