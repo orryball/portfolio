@@ -2,11 +2,13 @@
 
 An Amazon S3 bucket is a cloud storage resource available in Amazon Web Service. Buckets are used to store objects. They work similar to folders that hold files or pictures, but are not limited to just the two. This guide will help you create and configure an Amazon S3 Bucket.
 
-1. Sign into your AWS account, and navigate to the AWS Management Console.
-
-   > **Note**
+   > **Prerequisites**
    >
    > An AWS Account is required to creating an Amazon S3 bucket. If you do not have an AWS Account, please create an account at [AWS Free Tier Sign-up](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) and selecting **Create a Free Account**
+
+## Creating a Bucket ##
+
+1. Sign into your AWS account, and navigate to the AWS Management Console.
 
 2. Navigate to the [Amazon S3 console](https://console.aws.amazon.com/s3/).
 
@@ -36,7 +38,7 @@ An Amazon S3 bucket is a cloud storage resource available in Amazon Web Service.
 
 5. Next, the setup wizard will ask for **Configuration Options**.
 
-   - **Versioning** are used to keep a history of an object (created, updated, deleted, etc).
+   - **Versioning** is used to keep a history of an object (created, updated, deleted, etc).
    - **Server access logs** provides detailed log records for requests made to your bucket.
    - **Tags** use a Key, Value pair to help allocate costs assigned to your bucket.
    - **Object-level logging** provides audit logging for objects in AWS CloudTrail at an additional cost. (For more information on AWS CloudTrail, please see [What Is AWS CloudTrail?](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html))
