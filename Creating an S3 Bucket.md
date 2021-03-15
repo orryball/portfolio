@@ -36,11 +36,11 @@ An Amazon S3 bucket is a cloud storage resource available in Amazon Web Service.
    >
    > You should select a Region located close to your location. This will help to ensure minimal latency and costs. For more information, please see [Managing AWS Regions](https://docs.aws.amazon.com/general/latest/gr/rande-manage.html).
 
-5. Next, the setup wizard will ask for **Configuration Options**.
+5. Next, the setup wizard will ask for the following **Configuration Options**:
 
    - **Versioning** is used to keep a history of an object (created, updated, deleted, etc).
    - **Server access logs** provides detailed log records for requests made to your bucket.
-   - **Tags** use a Key, Value pair to help allocate costs assigned to your bucket.
+   - **Tags** uses a Key, Value pair to help allocate costs assigned to your bucket.
    - **Object-level logging** provides audit logging for objects in AWS CloudTrail at an additional cost. (For more information on AWS CloudTrail, please see [What Is AWS CloudTrail?](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html))
    - **Default Encryption** will automatically encrypt all objects stored in your bucket.
 
